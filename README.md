@@ -86,7 +86,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Aashutosh Pathak**. I enjoy playing with data!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashutosh-pathak-7383622a7)
+Hi there! I'm **Tanishq Gupta**. I enjoy playing with data!
